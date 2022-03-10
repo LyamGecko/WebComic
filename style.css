@@ -1,6 +1,6 @@
 
 body {
-  background-color: #efefef;
+  background-color: #16afa8;
   font-family: "Comic Sans MS", sans-serif;
   line-height: 1.2;
   text-align: center;
@@ -35,7 +35,7 @@ h1 {
   width: 250px;
   height: 250px;
   border: 3px solid black;
-  background: white;
+  background: #39bdab;
   margin: 8px;
   display: inline-block;
   position: relative;
