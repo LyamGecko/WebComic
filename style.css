@@ -9,7 +9,7 @@ body {
 h1 {
   text-transform: uppercase;
   font-size: 40px;
-  color: #d02626;
+  color: #0c2cbd;
 }
 .comic {
   max-width: 826px;
@@ -101,7 +101,7 @@ h1 {
   margin: 0;
   position: absolute;
   z-index: 1;
-  background: snow ;
+  background: rgb(0, 0, 0) ;
   padding: 20px;
   top: -15px;
   text-align: center;
